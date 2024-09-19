@@ -1,6 +1,6 @@
 # Airline_Ticket_Reservation_System
 
-# Welcome to the **Airline Ticket Reservation System** developed in Java. This project allows users to book, cancel, and view tickets for flights between major cities in India. The system includes different classes, seat availability, and flight details for users to manage their travel bookings.
+## Welcome to the **Airline Ticket Reservation System** developed in Java. This project allows users to book, cancel, and view tickets for flights between major cities in India. The system includes different classes, seat availability, and flight details for users to manage their travel bookings.
 
 ## Features
 
